@@ -1,0 +1,14 @@
+.upload_section {
+  margin-top: 5%;
+  display: grid;
+  place-items: center;
+}
+.button_sec {
+  /* justify-self: end; */
+  margin-top: 50px;
+}
+button {
+  background-color: orange;
+  padding: 5px 20px;
+  color: beige;
+}
